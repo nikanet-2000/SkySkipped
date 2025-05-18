@@ -1,5 +1,4 @@
 # SkySkipped
-## Join the discord server! https://discord.gg/skyskipped2
 SkySkipped mod for Hypixel Skyblock
 
 # [Download](https://github.com/nikanet-2000/SkySkipped/releases)
